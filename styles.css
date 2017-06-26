@@ -1,0 +1,52 @@
+*{
+  box-sizing: border-box;
+}
+
+h1{
+  font-size: 18px;
+  text-align: center;
+}
+
+.customers{
+  padding: 0 55px 0 55px;
+}
+
+.mainDiv{
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-around;
+}
+
+.personData{
+  margin-top: 85px;
+  flex: 25%;
+}
+
+.name{
+  text-align: center;
+  font-size: 16px;
+}
+
+.email{
+  font-size: 14px;
+  text-align: center;
+  margin-top: 20px;
+}
+
+.street{
+  font-size: 14px;
+  text-align: center;
+  margin-top: 5px;
+}
+
+.state{
+  font-size: 14px;
+  text-align: center;
+  margin-top: 5px;
+}
+
+.number{
+  font-size: 14px;
+  text-align: center;
+  margin-top: 5px;
+}
