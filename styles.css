@@ -20,6 +20,7 @@ h1{
 .personData{
   margin-top: 85px;
   flex: 25%;
+  text-align: center;
 }
 
 .name{
